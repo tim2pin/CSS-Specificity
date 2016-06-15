@@ -1,0 +1,13 @@
+CSS Specificity Challenge Answers
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+1.  Red
+2.  Yellow
+3.  Black
+4.  Blue
+5.  Red
+6.  8px
+7.  None
+8.  White
+9.  Red
+10. Green
+
